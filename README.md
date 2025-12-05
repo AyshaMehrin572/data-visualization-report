@@ -1,44 +1,29 @@
-Data Visualization Report Project
+DATA VISUALIZATION REPORT PROJECT
 
-Features
+  FEATURES
+ .Generate Correlation Heatmap
+ .Create Pairplot / Scatter Matrix
+ .Automatically save visualizations as PNG files
+ .Clean, readable analysis workflow
+ .Works with any numerical dataset
+ .Easy to extend with additional charts
 
-Generate Correlation Heatmap
+ HOW TO RUN
+ Install Dependencies
+ pip install pandas seaborn matplotlib
 
-Generate Pairplot / Scatter Matrix
-
-Automatically save visualizations as PNG files
-
-Clean, readable code for quick analysis
-
-Works with any numerical dataset
-
-Easy to extend with more charts
-
-How to Run
-
-Install dependencies:
-
-pip install pandas seaborn matplotlib
-
-
-Run the script:
-
+Run the Script
 python plot_report.py
 
 
-Outputs will be saved in the project folder.
-
-Project Structure
+ PROJECT STRUCTURE
 data-visualization-report/
-│── data/                     # (optional) dataset files
-│── images/                   # (optional) saved images
-│── heatmap_subplot.png       # generated heatmap
-│── pairplot_subplot.png      # generated pairplot
-│── plot_report.py            # main visualization script
-└── README.md                 # project documentation
+│── heatmap_subplot.png       
+│── pairplot_subplot.png      
+│── plot_report.py            
+└── README.md                 
 
-Outputs
+OUTPUTS
+heatmap_subplot.png — Correlation Heatmap
 
-heatmap_subplot.png — Correlation heatmap
-
-pairplot_subplot.png — Pairplot / scatter matrix
+pairplot_subplot.png — Pairplot / Scatter Matrix
