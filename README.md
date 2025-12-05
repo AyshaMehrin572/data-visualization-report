@@ -17,15 +17,15 @@ This project generates visualizations for any numerical dataset, including corre
 ```bash
 pip install pandas numpy seaborn matplotlib
 
-
+```
 2. **Run the script:**
-bash
+```bash
 python plot_report.py
 
-
+```
 ## Project Structure
 
-```
+
 data-visualization-report/
 ├── heatmap_subplot.png
 ├── pairplot_subplot.png
@@ -35,6 +35,6 @@ data-visualization-report/
 
 
 ## Outputs
-
+```
 - **heatmap_subplot.png** — Correlation Heatmap  
 - **pairplot_subplot.png** — Pairplot / Scatter Matrix
