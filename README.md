@@ -14,10 +14,14 @@ This project generates visualizations for any numerical dataset, including corre
 ## How to Run
 
 1. **Install dependencies:**
+
 pip install pandas numpy seaborn matplotlib
 
-2. **Run the script:**
+
+3. **Run the script:**
+
 python plot_report.py
+
 
 ## Project Structure
 
