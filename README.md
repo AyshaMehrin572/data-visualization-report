@@ -1,33 +1,42 @@
-# Data Visualization Report Project
+# Data Cleaning Project
 
 ## Features
-- Generate Correlation Heatmap
-- Create Pairplot / Scatter Matrix
-- Automatically save visualizations as PNG files
-- Clean, readable analysis workflow
-- Works with any numerical dataset
-- Easy to extend with additional charts
+
+* Generate Correlation Heatmap
+* Create Pairplot / Scatter Matrix
+* Automatically save visualizations as PNG files
+* Clean, readable analysis workflow
+* Works with any numerical dataset
+* Easy to extend with additional charts
 
 ## How to Run
 
-##Install dependencies:
+### Install Dependencies
 
-pip install pandas seaborn matplotlib
+```bash
+pip install pandas numpy matplotlib seaborn
+```
 
-##Run the script:
+### Run the Script
 
-python plot_report. 
+```bash
+python script.py
+```
 
-##Project Structure
+## Project Structure
 
-data-visualization-report/
-│── heatmap_subplot.png
-│── pairplot_subplot.png
-│── plot_report.py
+```
+data_cleaning_project/
+├── data/
+│   └── sample_data.csv
+├── cleaned_data/
+├── logs/
+├── script.py
 └── README.md
+```
 
-##Outputs
+## Outputs
 
-heatmap_subplot.png — Correlation Heatmap
+* `heatmap_subplot.png` — Correlation Heatmap
+* `pairplot_subplot.png` — Pairplot / Scatter Matrix
 
-pairplot_subplot.png — Pairplot / Scatter Matrix
