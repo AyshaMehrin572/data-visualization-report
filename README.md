@@ -24,7 +24,7 @@ python plot_report.py
 
 ```
 ## Project Structure
-
+```
 data-visualization-report/
 ├── heatmap_subplot.png
 ├── pairplot_subplot.png
@@ -32,7 +32,7 @@ data-visualization-report/
 └── README.md
 ```
 
-```
+
 ## Outputs
 
 - **heatmap_subplot.png** — Correlation Heatmap  
