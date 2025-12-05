@@ -16,7 +16,7 @@
 pip install pandas numpy seaborn matplotlib
 
 Run the script
-```bash
+bash
 
 python plot_report.py
 
