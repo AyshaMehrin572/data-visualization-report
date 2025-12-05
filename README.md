@@ -20,10 +20,11 @@ pip install pandas numpy seaborn matplotlib
 python plot_report.py
 
 ## Project Structure
+
 data-visualization-report/
-│── heatmap_subplot.png
-│── pairplot_subplot.png
-│── plot_report.py
+├── heatmap_subplot.png
+├── pairplot_subplot.png
+├── plot_report.py
 └── README.md
 
 ## Outputs
