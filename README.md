@@ -21,11 +21,14 @@ python plot_report.py
 
 ## Project Structure
 
+```
 data-visualization-report/
 ├── heatmap_subplot.png
 ├── pairplot_subplot.png
 ├── plot_report.py
 └── README.md
+```
+
 
 ## Outputs
 
