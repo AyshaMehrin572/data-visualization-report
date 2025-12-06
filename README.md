@@ -1,4 +1,4 @@
-# # Correlation Heatmap & Pairwise Relationships
+# Correlation Heatmap & Pairwise Relationships
 
 This project generates visualizations for any numerical dataset, including correlation heatmaps and pairplots (scatter matrices). It automatically saves the plots as PNG files.
 
